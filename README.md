@@ -10,8 +10,13 @@ advance with defensive tools and obstacles.
 Player can put obstacles in the way. After that enemies calculate a new path and use it.
 A* algorith is coded, not used from plugin.
 
-<img src="https://i.imgur.com/JMVaqm5.png" width="600" height="400">
+<img src="https://i.imgur.com/JMVaqm5.png" width="600" height="420">
+
+Algorithm creates a grid and with using the grid checks the roads are moveable or not.
+Then for every enemy, calculates the shortest path to the waypoint in real time. 
 
 <img src="https://i.imgur.com/M7ofIVv.png" width="600" height="550">
+
+Even in large maps, it works.
 
 <img src="https://i.imgur.com/sccfB1y.png" width="800" height="350">
