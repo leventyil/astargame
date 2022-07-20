@@ -10,8 +10,8 @@ advance with defensive tools and obstacles.
 Player can put obstacles in the way. After that enemies calculate a new path and use it.
 A* algorith is coded, not used from plugin.
 
-<img src="https://i.imgur.com/JMVaqm5.png">
+<img src="https://i.imgur.com/JMVaqm5.png" width="600" height="500">
 
-<img src="https://i.imgur.com/M7ofIVv.png">
+<img src="https://i.imgur.com/M7ofIVv.png" width="600" height="500">
 
-<img src="https://i.imgur.com/sccfB1y.png">
+<img src="https://i.imgur.com/sccfB1y.png" width="600" height="300">
