@@ -5,7 +5,13 @@ path to the castle by using A* algorithm. By observing this movement of the
 enemies, player is defending the castle by making it difficult for the enemies to
 advance with defensive tools and obstacles.
 
-<img src="https://i.imgur.com/0kSyUjF.png">
+<img src="https://i.imgur.com/0kSyUjF.png" width="600" height="500">
+
+Player can put obstacles in the way. After that enemies calculate a new path and use it.
+A* algorith is coded, not used from plugin.
+
 <img src="https://i.imgur.com/JMVaqm5.png">
+
 <img src="https://i.imgur.com/M7ofIVv.png">
+
 <img src="https://i.imgur.com/sccfB1y.png">
